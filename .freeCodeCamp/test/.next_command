@@ -258,3 +258,20 @@ clear
 ls --color=auto
 rm students_test.csv
 rm courses_test.csv
+__vsc_prompt_cmd_original
+ls --color=auto
+ll
+ls --color=auto
+la
+l
+ll
+ls --color=auto
+ls --color=auto -a
+ls --color=auto -l
+ls --color=auto -ld
+ls --color=auto
+clear
+ls --color=auto
+ls --color=auto
+ls --color=auto
+ls --color=auto
