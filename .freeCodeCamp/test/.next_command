@@ -52,3 +52,4 @@ touch insert_dash.sh
 rm insert_dash.sh
 touch insert_data.sh
 chmod +x insert_data.sh
+open insert_data.sh
