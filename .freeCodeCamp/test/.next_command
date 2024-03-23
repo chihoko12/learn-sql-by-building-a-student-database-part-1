@@ -61,3 +61,8 @@ declare -p IFS
 ./insert_data.sh
 cp courses_test.csv
 cp courses.csv courses_test.csv
+file="courses_test.csv"
+echo $file
+head -n 5 "file" > temp.csv
+head -n 5 "$file" > temp.csv
+mv temp.csv "$file"
