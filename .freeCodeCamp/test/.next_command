@@ -251,3 +251,4 @@ mv temp.csv "$file"
 clear
 ./insert_data.sh
 ./insert_data.sh
+./insert_data.sh
