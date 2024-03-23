@@ -277,3 +277,7 @@ ls --color=auto
 ls --color=auto
 pg_dump --help
 pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
+git remote -v
+git remote origin set-url [200~https://github.com/chihoko12/learn-sql-by-building-a-student-database-part-1~
+git remote set-url origin https://github.com/chihoko12/learn-sql-by-building-a-student-database-part-1
+git remote -v
