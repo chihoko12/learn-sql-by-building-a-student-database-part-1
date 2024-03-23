@@ -250,3 +250,4 @@ head -n 5 "$file" > temp.csv
 mv temp.csv "$file"
 clear
 ./insert_data.sh
+./insert_data.sh
